@@ -1,0 +1,130 @@
+[
+    {
+        "key":  "CanonicalName",
+        "type":  0
+    },
+    {
+        "key":  "CN",
+        "type":  0
+    },
+    {
+        "key":  "Created",
+        "type":  0
+    },
+    {
+        "key":  "createTimeStamp",
+        "type":  0
+    },
+    {
+        "key":  "Description",
+        "type":  0
+    },
+    {
+        "key":  "DistinguishedName",
+        "type":  0
+    },
+    {
+        "key":  "dSCorePropagationData",
+        "type":  0
+    },
+    {
+        "key":  "GroupCategory",
+        "type":  0
+    },
+    {
+        "key":  "GroupScope",
+        "type":  0
+    },
+    {
+        "key":  "groupType",
+        "type":  0
+    },
+    {
+        "key":  "instanceType",
+        "type":  0
+    },
+    {
+        "key":  "member",
+        "type":  0
+    },
+    {
+        "key":  "MemberOf",
+        "type":  0
+    },
+    {
+        "key":  "Members",
+        "type":  0
+    },
+    {
+        "key":  "Modified",
+        "type":  0
+    },
+    {
+        "key":  "modifyTimeStamp",
+        "type":  0
+    },
+    {
+        "key":  "Name",
+        "type":  0
+    },
+    {
+        "key":  "nTSecurityDescriptor",
+        "type":  0
+    },
+    {
+        "key":  "ObjectCategory",
+        "type":  0
+    },
+    {
+        "key":  "ObjectClass",
+        "type":  0
+    },
+    {
+        "key":  "ObjectGUID",
+        "type":  0
+    },
+    {
+        "key":  "objectSid",
+        "type":  0
+    },
+    {
+        "key":  "ProtectedFromAccidentalDeletion",
+        "type":  0
+    },
+    {
+        "key":  "SamAccountName",
+        "type":  0
+    },
+    {
+        "key":  "sAMAccountType",
+        "type":  0
+    },
+    {
+        "key":  "sDRightsEffective",
+        "type":  0
+    },
+    {
+        "key":  "SID",
+        "type":  0
+    },
+    {
+        "key":  "SIDHistory",
+        "type":  0
+    },
+    {
+        "key":  "uSNChanged",
+        "type":  0
+    },
+    {
+        "key":  "uSNCreated",
+        "type":  0
+    },
+    {
+        "key":  "whenChanged",
+        "type":  0
+    },
+    {
+        "key":  "whenCreated",
+        "type":  0
+    }
+]
