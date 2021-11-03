@@ -3,7 +3,7 @@ try {
     $searchQuery = "*$searchValue*"
     
     if(-not [String]::IsNullOrEmpty($searchValue)) {
-        # Write-information "SearchQuery: $searchQuery"
+        Write-information "SearchQuery: $searchQuery"
 
         # Get ALL AD Groups
         $groups = Get-ADGroup -Filter {Name -like $searchQuery} -properties *
