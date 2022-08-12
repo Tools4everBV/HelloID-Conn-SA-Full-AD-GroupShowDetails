@@ -9,6 +9,7 @@ This HelloID Service Automation Delegated Form provides AD group show details fu
 ## Versioning
 | Version | Description | Date |
 | - | - | - |
+| 1.0.2   | Added a comment line in the task | 2022/08/12  |
 | 1.0.1   | Added version number and updated all-in-one script | 2021/11/03  |
 | 1.0.0   | Initial release | 2021/06/18  |
  
